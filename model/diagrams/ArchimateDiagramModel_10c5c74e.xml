@@ -1,0 +1,173 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VeRA template"
+    id="10c5c74e">
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="e10d4234"
+      name="Besturende functies"
+      font="1|Segoe UI|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      fillColor="#ffa275">
+    <bounds
+        x="216"
+        y="24"
+        width="745"
+        height="109"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="57ce3a18"
+      name="Primaire functies (waarde toevoegen)"
+      font="1|Segoe UI|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      fillColor="#ffa275">
+    <bounds
+        x="216"
+        y="144"
+        width="745"
+        height="661"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="a93931ad"
+        font="1|Segoe UI|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        fillColor="#ffd5aa">
+      <bounds
+          x="216"
+          y="36"
+          width="493"
+          height="169"/>
+      <archimateElement
+          xsi:type="archimate:BusinessFunction"
+          href="BusinessFunction_36375e56.xml#36375e56"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="804a892e"
+        font="1|Segoe UI|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        fillColor="#ffd5aa">
+      <bounds
+          x="216"
+          y="216"
+          width="493"
+          height="325"/>
+      <archimateElement
+          xsi:type="archimate:BusinessFunction"
+          href="BusinessFunction_8cec3d21.xml#8cec3d21"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="f75f8e76"
+        font="1|Segoe UI|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        fillColor="#ffd5aa">
+      <bounds
+          x="24"
+          y="36"
+          width="169"
+          height="612"/>
+      <archimateElement
+          xsi:type="archimate:BusinessFunction"
+          href="BusinessFunction_d2038fc8.xml#d2038fc8"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="49979d17"
+        font="1|Segoe UI|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        fillColor="#ffd5aa">
+      <bounds
+          x="216"
+          y="552"
+          width="493"
+          height="96"/>
+      <archimateElement
+          xsi:type="archimate:BusinessFunction"
+          href="BusinessFunction_6705c7c6.xml#6705c7c6"/>
+    </children>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="866fe881"
+      name="Secundaire functies (ondersteunen en beheren)"
+      font="1|Segoe UI|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      fillColor="#ffa275">
+    <bounds
+        x="216"
+        y="816"
+        width="745"
+        height="205"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="95bb8ebd"
+      name="Contacten"
+      font="1|Segoe UI|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      fillColor="#aad5ff">
+    <bounds
+        x="12"
+        y="24"
+        width="181"
+        height="997"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="68efc69c"
+      name="Bron"
+      font="1|Segoe UI|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI">
+    <bounds
+        x="972"
+        y="24"
+        width="181"
+        height="997"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="a9b76aab"
+        font="1|Segoe UI|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI">
+      <bounds
+          x="12"
+          y="96"
+          width="144"
+          height="96"/>
+      <archimateElement
+          xsi:type="archimate:Node"
+          href="Node_0aa7a8c5.xml#0aa7a8c5"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="9a55f5c7"
+        font="1|Segoe UI|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI">
+      <bounds
+          x="14"
+          y="288"
+          width="143"
+          height="91"/>
+      <archimateElement
+          xsi:type="archimate:Node"
+          href="Node_757ba504.xml#757ba504"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="d3aff932"
+        font="1|Segoe UI|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI">
+      <bounds
+          x="14"
+          y="492"
+          width="143"
+          height="96"/>
+      <archimateElement
+          xsi:type="archimate:Node"
+          href="Node_e14e9057.xml#e14e9057"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="e9e82461"
+        font="1|Segoe UI|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI">
+      <bounds
+          x="15"
+          y="684"
+          width="142"
+          height="99"/>
+      <archimateElement
+          xsi:type="archimate:Node"
+          href="Node_9f630e9f.xml#9f630e9f"/>
+    </children>
+  </children>
+</archimate:ArchimateDiagramModel>

@@ -1,0 +1,65 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NORA basisarchitectuur overheid"
+    id="8ee6c39f">
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="97dee144"
+      name="Contacten"
+      font="1|Segoe UI|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      fillColor="#aad5ff">
+    <bounds
+        x="12"
+        y="6"
+        width="181"
+        height="509"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="57101efc"
+      name="Besturende functies"
+      font="1|Segoe UI|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      fillColor="#ffa275">
+    <bounds
+        x="204"
+        y="6"
+        width="329"
+        height="133"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="234f4328"
+      name="Primaire functies"
+      font="1|Segoe UI|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      fillColor="#ffa275">
+    <bounds
+        x="204"
+        y="162"
+        width="329"
+        height="173"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="5be6df3c"
+      name="Secundaire functies"
+      font="1|Segoe UI|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      fillColor="#ffa275">
+    <bounds
+        x="204"
+        y="360"
+        width="329"
+        height="155"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="07260977"
+      name="Bron"
+      font="1|Segoe UI|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI">
+    <bounds
+        x="544"
+        y="6"
+        width="181"
+        height="509"/>
+  </children>
+</archimate:ArchimateDiagramModel>
