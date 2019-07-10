@@ -8,6 +8,7 @@
       id="97dee144"
       name="Contacten"
       font="1|Segoe UI|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      textAlignment="1"
       fillColor="#aad5ff">
     <bounds
         x="12"
@@ -20,6 +21,7 @@
       id="57101efc"
       name="Besturende functies"
       font="1|Segoe UI|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      textAlignment="1"
       fillColor="#ffa275">
     <bounds
         x="204"
@@ -32,6 +34,7 @@
       id="234f4328"
       name="Primaire functies"
       font="1|Segoe UI|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      textAlignment="1"
       fillColor="#ffa275">
     <bounds
         x="204"
@@ -44,6 +47,7 @@
       id="5be6df3c"
       name="Secundaire functies"
       font="1|Segoe UI|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      textAlignment="1"
       fillColor="#ffa275">
     <bounds
         x="204"
@@ -55,7 +59,8 @@
       xsi:type="archimate:DiagramModelGroup"
       id="07260977"
       name="Bron"
-      font="1|Segoe UI|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI">
+      font="1|Segoe UI|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      textAlignment="1">
     <bounds
         x="544"
         y="6"
